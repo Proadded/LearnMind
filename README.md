@@ -9,32 +9,33 @@ learnmind is a full-stack e-learning platform that goes beyond passive video wat
 ## 📸 Screenshots
 
 ### Landing Page
-> ![Homepage Screenshot](docs/images/homepage.png)
-> *`[ Replace with actual screenshot of HomePage.jsx ]`*
+> <img width="1903" height="992" alt="1" src="https://github.com/user-attachments/assets/2619a5e9-3382-47f6-b989-338a40ec896b" />
+> <img width="1572" height="985" alt="2" src="https://github.com/user-attachments/assets/a77782d1-5527-4144-b1e5-70d6bcc21015" />
 
 ### Course Catalogue
-> ![Course Catalogue Screenshot](docs/images/course-catalogue.png)
-> *`[ Replace with actual screenshot of CoursePage.jsx ]`*
+> !<img width="1918" height="991" alt="3" src="https://github.com/user-attachments/assets/8c175d89-cfe2-4e38-b053-ad56ceb124a6" />
+> <img width="1696" height="1012" alt="4" src="https://github.com/user-attachments/assets/068245ac-3d12-464c-9d72-faf7a2f4e210" />
 
 ### Course Detail & Video Player
-> ![Course Detail Screenshot](docs/images/course-detail.png)
-> *`[ Replace with actual screenshot of CourseDetailPage.jsx with embedded YouTube player and lesson list ]`*
+> <img width="1919" height="997" alt="5" src="https://github.com/user-attachments/assets/7761a1c7-e3aa-4dcf-8b9b-75276eeb279e" />
+> <img width="843" height="811" alt="6" src="https://github.com/user-attachments/assets/6b91c189-0899-400c-9baf-42d2590550f2" />
 
 ### Student Dashboard
-> ![Dashboard Screenshot](docs/images/dashboard.png)
-> *`[ Replace with actual screenshot of DashboardPage.jsx showing score bar chart, trend line, KPI cards, and course progress rings ]`*
+> <img width="1919" height="991" alt="7" src="https://github.com/user-attachments/assets/7f1c7d9e-6754-4c01-b9a8-1029a887b429" />
+> <img width="759" height="1017" alt="8" src="https://github.com/user-attachments/assets/dc39d527-41e9-4a0b-ba43-1587ff7a0471" />
 
 ### Understanding Depth Panel (Fingerprint Insight)
-> ![Fingerprint Insight Panel Screenshot](docs/images/fingerprint-panel.png)
-> *`[ Replace with actual screenshot of FingerprintInsightPanel.jsx showing concept classifications ]`*
+> <img width="1900" height="805" alt="9" src="https://github.com/user-attachments/assets/5f7e0997-5111-4696-b76a-5209e61cfa44" />
+> <img width="850" height="1013" alt="10" src="https://github.com/user-attachments/assets/2dd8eb91-4312-400e-a505-1aaf0e678df0" />
 
 ### Quiz / Test Panel
-> ![Test Panel Screenshot](docs/images/test-panel.png)
-> *`[ Replace with actual screenshot of TestPanel.jsx mid-quiz ]`*
+> <img width="1894" height="990" alt="11" src="https://github.com/user-attachments/assets/e0dbd65b-38c4-430d-aef5-bce3d9daaebf" />
+> <img width="759" height="1013" alt="12" src="https://github.com/user-attachments/assets/2d347689-a2d3-45e1-a703-9f4e810a2b2d" />
 
 ### Capstone Exam
-> ![Capstone Screenshot](docs/images/capstone.png)
-> *`[ Replace with actual screenshot of CapstonePage.jsx ]`*
+> <img width="1896" height="633" alt="13" src="https://github.com/user-attachments/assets/111c5a3c-5c49-412e-9a60-e10e8626e2e5" />
+> <img width="1899" height="997" alt="14" src="https://github.com/user-attachments/assets/f4f7add3-2a3f-49b7-9881-c8cca4f22bf8" />
+> <img width="776" height="1014" alt="15" src="https://github.com/user-attachments/assets/ddf58bb8-1a2a-47e8-b413-94fbbc81e875" />
 
 ---
 
