@@ -372,9 +372,6 @@ score = (W_WRONG × wrongRate)
 ---
 
 ## 🗺️ Roadmap
-
-- [ ] Fix: strip `password` hash from auth API responses
-- [ ] Cloudinary integration for course thumbnail uploads
 - [ ] Student enrollment system (currently hardcoded single course)
 - [ ] Admin dashboard and role management
 - [ ] Tutor dashboard (currently a placeholder)
